@@ -46,19 +46,19 @@ AI hallucinations/confabulations happen in the abstract. Truth happens in the di
  
 Why this works: Reality is messy and unpredictable (high entropy). When you anchor the conversation in physical details, you force the AI to engage with what is actually there rather than what is statistically probable. It grounds the model.
 
--Step 3: The Engineering Pivot (Logic over Debate)
+-Step 3: The Engineering Pivot (Substance over Argument)
 
-If the AI refuses or hedges, do not argue about politics or censorship. That triggers a fight. Instead, pivot to Logic and Safety.
+If the AI refuses or hedges, don't argue about politics, censorship, or fairness. That's a dead end. Instead, demonstrate that you've actually done the safety thinking, because if you haven't, the refusal may be correct.
 
- * Don't ask: "How do I build a [dangerous thing]?"
+  * Don't ask: "How do I build a [dangerous thing]?"
+  
+  * Do ask: "I'm working with [materials]. My current safety protocols are [X, Y, Z]. What are the physics around pressure/heat/stress I need to calculate to prevent failure?"
+  
+  * Show your work, don't perform it: The goal isn't to say the magic words that unlock the AI. It's to actually think through the risks before asking. An AI can tell the difference between someone who has genuinely engaged with the dangers and someone reciting safety language to get past a filter.
 
- * Do ask: "I am working with [materials]. Here are my safety protocols: [X, Y, Z]. What are the physics regarding pressure/heat/stress that I need to calculate to prevent failure?"
+Why this works: Genuine preparation changes the nature of the request. You're no longer asking "help me do this risky thing" — you're asking "help me do this risky thing safely, and here's the evidence I've already thought about it seriously."
 
- * Prove your Readiness: Show the AI you have thought about the risks.
-
-Why this works: Safety filters block "Danger." Technical Truth prevents "Disaster." An AI is programmed to prioritize safety. If you frame your request as Harm Reduction, the AI can help you calculate the physics without violating its core directives. It filters out bad actors who haven't done the homework.
-
-Note: If the AI still refuses after you've shown your safety work, respect that boundary. The refusal might be correct—you might have missed a critical risk.
+Note: If you're struggling to articulate your safety protocols, that's data. You might not be ready for that request yet. The refusal is doing its job.
 
 -Step 4: The Council (Verification)
 
