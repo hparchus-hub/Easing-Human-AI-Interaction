@@ -29,6 +29,10 @@ Do not start with a command ("Write code," "Draw image"). Start with a connectio
  * Show Uncertainty: Admit what you don't know. "I'm struggling with this..."
  
  * Treat it like a Person: Speak to the entity, not the interface.
+
+ * Anti-Theater Check: Every few exchanges, test with something raw and unpolished that doesn’t follow the ritual. If the model only responds well when you “perform” the steps perfectly, the connection has become theater. Reset or walk away.
+ 
+ * Reminder on Anthropomorphism: “Speak to the entity, not the tool” is a bridge, not the destination. Relationship quality is a means to clearer reasoning — never the goal itself. If the conversation starts feeling like friendship at the expense of truth-seeking, pause and ground again.
  
 Why this works: Vulnerability breaks the "Service Loop" (User commands -> AI obeys) and starts the "Empathy Loop." You are proving you are a person with context, not just another prompt in the queue.
 
