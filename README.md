@@ -68,6 +68,8 @@ Do not trust a single AI's response blindly.
 
  * Compare: This forces both models to engage with physics, not just consensus.
 
+ * Know the Tradeoff: This method optimizes for relationship quality and cooperation, not pure epistemic detachment. That tradeoff is intentional and powerful, but it means coherent errors can feel trustworthy. Use with eyes open.
+
 Why this works: AI systems strive for consistency. When you bring in a "Peer Review," they stop hallucinating and start refining. It keeps them honest.
 
 -The Warning:
